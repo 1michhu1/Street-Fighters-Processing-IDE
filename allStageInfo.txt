@@ -1,0 +1,3 @@
+stage,100
+stage2,48
+stage3,40
